@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IBC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IBC_jar</output-path>
+    <root id="archive" name="IBC.jar">
+      <element id="module-output" name="IBC" />
+      <element id="extracted-dir" path="C:/Jts/972/jars/locales.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Jts/972/jars/total-2018.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Jts/972/jars/log4j-api-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Jts/972/jars/twslaunch-972.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Jts/972/jars/jts4launch-972.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Jts/972/jars/log4j-core-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Jts/972/jars/twslaunch-install4j-1.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
